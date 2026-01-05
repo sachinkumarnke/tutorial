@@ -1,0 +1,28 @@
+ 
+ <?php
+
+
+// Variable Rules in PHP
+
+// · A variable starts with the $ sign.
+// · A variable name cannot start with a number.
+// · A variable name must start with a letter or the underscore(_) character.
+// · A variable name cannot start with a special character.
+// · A variable name can only contain alpha-numeric characters and underscores(_).
+// · $name, $Name and $NAME are three different variables.
+// · Variable syntax
+//  = $name="anil";
+
+
+$name="sachin kumar";
+echo"$name";
+ECHO"<BR>";
+$NAME="ALIX";
+echo"$NAME";
+
+
+echo"<br>";
+$a=$b=50;
+echo $a;
+
+?>

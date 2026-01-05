@@ -3,7 +3,6 @@
 $name="today learning a php variable";
 
 
-
 echo$name;
 echo"<br>";
 
